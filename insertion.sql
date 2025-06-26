@@ -1,0 +1,16 @@
+INSERT INTO KABADDI_PLAYERS (name, age, team, position, matches_played, raid_points, tackle_points, is_active) VALUES
+('Pardeep Narwal', 26, 'UP Yoddhas', 'Raider', 120, 1200, 50, TRUE),
+('Manjeet Chhillar', 34, 'Tamil Thalaivas', 'All-Rounder', 140, 400, 250, FALSE),
+('Rahul Chaudhari', 30, 'Jaipur Pink Panthers', 'Raider', 130, 980, 45, TRUE),
+('Fazel Atrachali', 31, 'Puneri Paltan', 'Defender', 110, 30, 350, TRUE),
+('Deepak Hooda', 29, 'Bengal Warriors', 'All-Rounder', 125, 850, 120, TRUE),
+('Sandeep Narwal', 32, 'Dabang Delhi', 'All-Rounder', 118, 650, 160, FALSE),
+('Naveen Kumar', 23, 'Dabang Delhi', 'Raider', 90, 900, 40, TRUE),
+('Neeraj Kumar', 27, 'Patna Pirates', 'Defender', 80, 10, 190, TRUE),
+('Ajay Thakur', 35, 'Tamil Thalaivas', 'Raider', 100, 780, 30, FALSE),
+('Ravinder Pahal', 33, 'Gujarat Giants', 'Defender', 105, 15, 270, TRUE),
+('Aslam Inamdar', 22, 'Puneri Paltan', 'Raider', 45, 350, 20, TRUE),
+('Sagar Rathee', 24, 'Tamil Thalaivas', 'Defender', 50, 5, 180, TRUE),
+('Mohammad Nabibakhsh', 28, 'Bengal Warriors', 'All-Rounder', 60, 400, 100, TRUE),
+('Vikash Kandola', 26, 'Bengaluru Bulls', 'Raider', 85, 620, 25, TRUE),
+('Surjeet Singh', 31, 'Telugu Titans', 'Defender', 95, 12, 200, FALSE);
